@@ -11,8 +11,8 @@
 #### 주요 git 명령어
 
 -----
-###2주차 숙제   
-```
+### 2주차 숙제
+```bash
 #!/user/bin/env/bash
 echo "----------"
 echo "name :"
