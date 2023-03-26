@@ -12,7 +12,7 @@
 
 -----
 ###2주차 숙제
-'''bash
+```bash
 echo "----------"
 echo "name :"
 echo "이호준"
@@ -33,4 +33,4 @@ echo ""
 echo "----------"
 echo "last line :"
 cat $path | tail -n 1
-'''
+```
