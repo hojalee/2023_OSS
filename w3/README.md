@@ -16,8 +16,8 @@
 #!/user/bin/env/bash
 echo "----------"
 echo "name :"
-
 echo ""
+
 echo "----------"
 echo "student id :"
 
@@ -26,11 +26,13 @@ echo ""
 echo "file path :"
 find /home/kau2 -name "w2_homework.txt" 2> /dev/null
 echo ""
+
 echo "----------"
 echo "line number :"
 path=$(find /home/kau2 -name "w2_homework.txt" 2> /dev/null)
 cat $path | wc -l | cut -c 1
 echo ""
+
 echo "----------"
 echo "last line :"
 cat $path | tail -n 1
