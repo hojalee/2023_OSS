@@ -11,15 +11,16 @@
 #### 주요 git 명령어
 
 -----
-###2주차 숙제
-```bash
+###2주차 숙제   
+```
+#!/user/bin/env/bash
 echo "----------"
 echo "name :"
-echo "이호준"
+
 echo ""
 echo "----------"
 echo "student id :"
-echo "2020125055"
+
 echo "----------"
 echo ""
 echo "file path :"
